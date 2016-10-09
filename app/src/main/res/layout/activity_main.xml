@@ -25,17 +25,17 @@
         android:src="@drawable/ic_message_black_24dp" />
 
     <ImageView
-        android:id="@+id/imageViewCamera"
-        android:layout_width="80dp"
-        android:layout_height="80dp"
-        android:layout_weight="1"
-        android:src="@drawable/ic_camera_alt_black_24dp" />
-
-    <ImageView
         android:id="@+id/imageViewBrowser"
         android:layout_width="80dp"
         android:layout_height="80dp"
         android:layout_weight="1"
         android:src="@drawable/ic_language_black_24dp" />
+
+    <ImageView
+        android:id="@+id/imageViewCamera"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_weight="1"
+        android:src="@drawable/ic_camera_alt_black_24dp" />
 
 </LinearLayout>
